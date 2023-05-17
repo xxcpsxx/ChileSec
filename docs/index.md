@@ -4,5 +4,5 @@
 
 ## About ChileSec
 
-Hello world 
+Hello world!
 
